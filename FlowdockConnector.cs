@@ -34,7 +34,7 @@ namespace FlowdockConnector
     AppGuid("C5DA3EF0-2B94-4FD3-81DB-2250E3894932"),
     AppControlGuid("18F97E83-B3FA-4250-AC0C-49E6298DC76C"),
     AppAuthor("Countersoft"),
-    AppKey("FlowDoc"),
+    AppKey("FlowDock"),
     AppName("Flowdock Connector"),
     AppDescription("Flowdock Connector"),
     AppRequiresConfigScreen(true)]
